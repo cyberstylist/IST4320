@@ -1,0 +1,4 @@
+Activity 05 - File 1
+Created as part of my IST4320 GitHub practice.
+
+This file demonstrates basic text content and shows I can work with Git and GitHub.

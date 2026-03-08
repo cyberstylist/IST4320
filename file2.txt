@@ -1,0 +1,7 @@
+Activity 05 - File 2
+Also part of IST4320 Activity 05.
+
+Includes a short list of topics I reviewed:
+- Git add, commit, push
+- Repository structure
+- Branching concepts
